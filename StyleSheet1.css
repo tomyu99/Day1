@@ -1,0 +1,29 @@
+﻿body {
+    background-color:darkgray;
+        
+}
+h1 { 
+    background-color:black;
+
+}
+
+header { 
+    color:yellow;
+
+}
+
+p {
+    font-size:x-large
+
+}
+
+#id2 {
+    text-transform:uppercase
+}
+
+#id3{
+    background-image:url("P1.png")
+}
+
+
+
